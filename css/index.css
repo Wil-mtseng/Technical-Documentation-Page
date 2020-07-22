@@ -1,0 +1,9 @@
+@media(min-width: 940px){
+  p{font-size: 25px}
+}
+#navbar{
+  display: flexbox;
+  float: left;
+  width: 1vw;
+  
+}
